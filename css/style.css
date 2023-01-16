@@ -350,6 +350,9 @@ legend {
 .about__info {
    display: flex;
 }
+.about img {
+   width: 60%;
+}
 .about__info-item {
    width: 200px;
    height: 215px;
